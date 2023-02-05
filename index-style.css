@@ -1,0 +1,18 @@
+
+body{
+    background-color: #aebfd2;
+    
+}
+hr{
+    border-style: dotted none none none;
+    height: 0px;
+    width: 5%;
+   border-width: 5px;
+   border-color: rgb(55, 65, 73);
+}
+h1, h2, h3{
+    color: rgb(46, 50, 58);
+}
+#name {
+color: #82669b;
+}
